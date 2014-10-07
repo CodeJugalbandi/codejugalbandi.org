@@ -5,7 +5,7 @@ it was time for me to test the idea out.  Having discussed it in our Functional 
 ([Aslam Khan](http://f3yourmind.net/), [Ryan Lemmer](https://github.com/uroboros) and [Jaydeep Kulkarni](https://www.linkedin.com/in/jaydeepk)), 
 they all thought it was a novel idea and we should give it a try.  
 
-[@RyanLemmer](https://twitter.com/ryanlemmer/) and [@dhavaldalal](https://twitter.com/softwareartisan/) went ahead with CodeJugalbandi's materialization.  Ryan brought in the idea of Melodies to 
+[@ryanLemmer](https://twitter.com/ryanlemmer/) and [@dhavaldalal](https://twitter.com/softwareartisan/) went ahead with CodeJugalbandi's materialization.  Ryan brought in the idea of Melodies to 
 do multiple code jugalbandi rounds.  Like in real musical Jugalbandi there are the two roles - the creator (and player) and the listener (and player), Ryan suggested that we give creative names to the jugalbandists who participate.  
 So to put things in perspective, the creator of the melody is called Bramha and the other(s) who listen to the melody and play accordingly is/are called Krishna.
 
