@@ -1,5 +1,3 @@
-CodeJugalbandi.org
-==================
 
 ## Genesis ##
 After proposing the idea of CodeJugalbandi - [http://www.jroller.com/DhavalDalal/entry/code_jugalbandi](http://www.jroller.com/DhavalDalal/entry/code_jugalbandi), 
