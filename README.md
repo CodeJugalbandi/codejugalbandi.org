@@ -5,17 +5,20 @@ it was time for me to test the idea out.  Having discussed it in our Functional 
 ([Aslam Khan](http://f3yourmind.net/), [Ryan Lemmer](https://github.com/uroboros) and [Jaydeep Kulkarni](https://www.linkedin.com/in/jaydeepk)), 
 they all thought it was a novel idea and we should give it a try.  
 
-[@ryanLemmer](https://twitter.com/ryanlemmer/) and [@dhavaldalal](https://twitter.com/softwareartisan/) went ahead with CodeJugalbandi's materialization.  Ryan brought in the idea of Melodies to 
+[@ryanLemmer](https://twitter.com/ryanlemmer/) and [@softwareartisan](https://twitter.com/softwareartisan/) went ahead with CodeJugalbandi's materialization.  Ryan brought in the idea of Melodies to 
 do multiple code jugalbandi rounds.  Like in real musical Jugalbandi there are the two roles - the creator (and player) and the listener (and player), Ryan suggested that we give creative names to the jugalbandists who participate.  
 So to put things in perspective, the creator of the melody is called Bramha and the other(s) who listen to the melody and play accordingly is/are called Krishna.
 
-Thank-you [Functional Conference - @FuConf](http://functionalconf.com/) for providing the platform to debut this.
+Thank-you [Functional Conference - @FuConf](http://functionalconf.com/) and [Naresh Jain](https://nareshjain.com/)  for providing the platform to debut this.
 
 ## Code Jugalbandi Notes, Sketches, etc ##
 ### Structure of the session ###
+* Intro to musical Jugalbandi, [play this video](http://www.youtube.com/embed/_WLwoQSIKv4?feature=player_detailpage) and   let it speak for itself.The audience is smart enough to relate Musical Jugalbandi to Code Jugalbandi.
 * Introduce the opp person (this assumes you have 2 people, but if you have more scale it accordingly).
-* Intro to Jugalbandi (musical - [play video](http://www.youtube.com/embed/_WLwoQSIKv4?feature=player_detailpage) for 2 mins) and let it speak for itself.  The audience is smart enough to relate Musical Jugalbandi to Code Jugalbandi [[embed url=http://www.youtube.com/watch?v=_WLwoQSIKv4]]
-* Each Jugalbandi round is a melody.  Aim for about max 15 mins per melody.
+* Make it clear to the audience to not focus on syntax and its okay not to follow through syntax, but really capture the   essence of things beyond syntax.
+* Each Jugalbandi round is a melody.Aim for about max 15 mins per melody.
+* During the melody, limit the code lines visible at any given time to a max of 10, so that it reduces the cognitive
+  load.
 
 I know the resolution of the video is not that great, but I found (based on search results I got) it to be the most apt video to convey idea in less
 than 2 minutes to a large audience.  
