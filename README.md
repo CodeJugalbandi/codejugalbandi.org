@@ -1,3 +1,14 @@
+## Overview ##
+In Indian classical music, we have Jugalbandi, where two lead musicians or vocalist engage in a playful competition. Lets say there is jugalbandi between a Flutist and a Percussionist (say using Tabla as the instrument). Compositions rendered by the flutist will be heard by the percussionist who will replay the same notes, but now on Tabla and vice-versa is also possible.You can find additional information on [this wikipedia page] (http://en.wikipedia.org/wiki/Jugalbandi).
+
+In a similar way, we perform Code Jugalbandi to see how solution to a problem looks different using different instruments. There would be multiple such rounds during the Jugalbandi, where the Jugalbandists would change instruments to give the audience a feel of solution rendition using different instruments.
+
+Our hope is that a Code Jugalbandi session -
+
+* Would give people confidence that being polyglot can be within their reach.
+* It can also become a source of inspiration to try out a new stuff, be it languages or frameworks or anything etc...
+* Promote learning by comparison and contrast - a natural way for human mind to grasp new things.
+* Also, people from one camp can peek at the other camp and tell themselves - "ah look! its similar! or it does that better!" etc..
 
 ## Genesis ##
 After proposing the idea of CodeJugalbandi - [http://www.jroller.com/DhavalDalal/entry/code_jugalbandi](http://www.jroller.com/DhavalDalal/entry/code_jugalbandi), 
