@@ -20,7 +20,7 @@ they all thought it was a novel idea and we should give it a try.
 do multiple code jugalbandi rounds.  Like in real musical Jugalbandi there are the two roles - the creator (and player) and the listener (and player), Ryan suggested that we give creative names to the jugalbandists who participate.  
 So to put things in perspective, the creator of the melody is called Bramha and the other(s) who listen to the melody and play accordingly is/are called Krishna.
 
-Thank-you [Functional Conference - @FuConf](http://functionalconf.com/) and [Naresh Jain](https://nareshjain.com/)  for providing the platform to debut this.
+Thank-you [Functional Conference - @FnConf](http://functionalconf.com/) and [Naresh Jain](https://nareshjain.com/)  for providing the platform to debut this.
 
 
 ## Code Jugalbandi Notes, Sketches, etc ##
@@ -67,6 +67,3 @@ So just be creative in applying this Code Jugalbandi style to suit your context.
 
 ## Contributing ##
 If you feel you have liked the idea and want to contribute, we encourage pull requests.  Alternatively, if you have your own repo somewhere, please send us the link and we will link to your repo from this main page.
-
-
-
