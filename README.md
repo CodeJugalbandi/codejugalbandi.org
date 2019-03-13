@@ -11,7 +11,7 @@ Our hope is that a Code Jugalbandi session -
 * Also, people from one camp can peek at the other camp and tell themselves - "ah look! its similar! or it does that better!" etc..
 
 ## Genesis ##
-After proposing the idea of CodeJugalbandi - [http://www.jroller.com/DhavalDalal/entry/code_jugalbandi](http://www.jroller.com/DhavalDalal/entry/code_jugalbandi), 
+After proposing the idea of CodeJugalbandi - [https://dhavaldalal.wordpress.com/2013/05/20/code-jugalbandi](https://dhavaldalal.wordpress.com/2013/05/20/code-jugalbandi), 
 it was time for me to test the idea out.  Having discussed it in our Functional Programming discussion group 
 ([Aslam Khan](http://f3yourmind.net/), [Ryan Lemmer](https://github.com/uroboros) and [Jaydeep Kulkarni](https://www.linkedin.com/in/jaydeepk)), 
 they all thought it was a novel idea and we should give it a try.  
